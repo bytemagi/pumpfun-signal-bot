@@ -1,21 +1,22 @@
 # Pumpfun SIGNAL TELEGRAM BOT
 
-## Requirement
+## About this bot
 
-- Market Cap
-Detect only at least 100k+ MCap , if it lower , this can be detected by Mev Bot, so skip it.
+Bot give pumping alert of token to specfic channel
 
-- Quick Buy with Button
-Use Pumpfun SDK
+Bot filters 
+- by marketcap
+- by volume
+- Top 10 holders percentage
+- Dev token holding amount
+- Bundle status
+- Pumping alert like x5.0
+- x5.0 mean token mc is increased since moment it's detected my bot
 
-- Age
-consider time the token was listsed to detect this alpha or reversal token
+Bot gives first alert when detects new token
 
-- Dev Wallet
-Some warning for dev wallet here
+![image](https://github.com/user-attachments/assets/03f6922f-ffb5-486c-9b91-ca8eea27b154)
 
-- Top Holder
-Check as well for top 10 holder
+- Real Promising Token is showing like this
 
-- Social
-Project's Social
+![image](https://github.com/user-attachments/assets/dd219982-9bdb-43b1-904f-279c9fda0369)
