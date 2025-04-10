@@ -1,6 +1,6 @@
 # Pumpfun SIGNAL TELEGRAM BOT
 
-## About this bot
+## About this bot ( Forked 4AM )
 
 Bot give pumping alert of token to specfic channel
 
