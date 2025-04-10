@@ -1,5 +1,7 @@
 # Pumpfun SIGNAL TELEGRAM BOT
 
+[Contact via telegram](https://t.me/bytemagi)
+
 ## About this bot ( Forked 4AM )
 
 Bot give pumping alert of token to specfic channel
