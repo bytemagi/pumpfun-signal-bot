@@ -1,0 +1,94 @@
+{
+    "k6Biv8hLytVwMTHhbs5AitAPdZTZS8HYxJ3tqsUpump": {
+        "Liquidity": 46763.904728998845,
+        "address": "k6Biv8hLytVwMTHhbs5AitAPdZTZS8HYxJ3tqsUpump",
+        "burnPercent": 100,
+        "burnedAmount": 1000000000000000,
+        "createTime": 1740649248,
+        "devBuyPercent": 0,
+        "exchange": "Raydium",
+        "holder": 373,
+        "init_liq": {
+            "quote": 79005359076,
+            "token": 206900000000000,
+            "usd": null
+        },
+        "isFreezeable": false,
+        "isListed": true,
+        "isMintable": false,
+        "marketCap": 231435.51015531376,
+        "name": "BONK solana chain rewards",
+        "owner": "DDRQn7ooFjtWrGbxH5fMWwRYACXP22yqc5GVjHsaeWJa",
+        "pairAddress": "BU8yQytE24u6ZxNPu15WGfNKgat8ySSa7Q27amtYk5oJ",
+        "percent": 100,
+        "prevExchange": "Pump.fun",
+        "priceInQuote": 0,
+        "priceInUSD": 0.00023143551015531377,
+        "quoteAmount": 166.66053278,
+        "socials": {},
+        "startTime": 0,
+        "symbol": "BSCR",
+        "tokenAmount": 100927033.581408,
+        "top10HolderPercent": 37.8084269963596,
+        "totalbase": 163.632702661,
+        "totallp": "4043",
+        "totalquote": 102230274.819357,
+        "txns": {
+            "all": {
+                "price": 0.00023312303950533825,
+                "volume": 299278.17382311897
+            },
+            "h1": {
+                "buyers": 577,
+                "buys": 6339,
+                "makers": 578,
+                "price": 0.000004022605265734692,
+                "sellers": 268,
+                "sells": 1028,
+                "vbuys": 160371.14171424398,
+                "vsells": 136842.1272296184
+            },
+            "h24": {
+                "buyers": 586,
+                "buys": 6348,
+                "makers": 588,
+                "price": 0.0000048456228331780116,
+                "sellers": 277,
+                "sells": 1037,
+                "vbuys": 161404.99965401128,
+                "vsells": 137873.17416910487
+            },
+            "h6": {
+                "buyers": 586,
+                "buys": 6348,
+                "makers": 588,
+                "price": 0.0000048456228331780116,
+                "sellers": 277,
+                "sells": 1037,
+                "vbuys": 161404.99965401128,
+                "vsells": 137873.17416910487
+            },
+            "m5": {
+                "buyers": 105,
+                "buys": 1502,
+                "makers": 143,
+                "price": 0.00022584478990032186,
+                "sellers": 53,
+                "sells": 219,
+                "vbuys": 25675.33464171014,
+                "vsells": 26021.024027673637
+            }
+        },
+        "urlInfo": {
+            "description": "\"Earn $TSOL rewards every 30 minutes just by holding $BSCR token\"\r\n\r\n$BSCR holding rates will be snapshotted per 30 minutes and $SOL will be sent within 15 minutes later.",
+            "image": "https://ipfs.io/ipfs/QmbfDJZZJ63mf1qXR2hryYgibZpSFQZ33a842cS4Qzf9hk",
+            "image2": "https://cdn.mevx.io/token-logo/1740637102-k6Biv8hLytVwMTHhbs5AitAPdZTZS8HYxJ3tqsUpump.png",
+            "telegram": "",
+            "twitter": "",
+            "website": ""
+        },
+        "msgId": 1520,
+        "initial_mc": 231435.51015531376,
+        "multiple": 1
+    },
+}
