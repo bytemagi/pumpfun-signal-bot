@@ -22,3 +22,7 @@ Bot gives first alert when detects new token
 - Real Promising Token is showing like this
 
 ![image](https://github.com/user-attachments/assets/dd219982-9bdb-43b1-904f-279c9fda0369)
+
+- Available for live chart
+
+![image](https://github.com/user-attachments/assets/62a98c45-f26f-4ac7-a6f7-a9a27385bc29)
